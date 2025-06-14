@@ -1,0 +1,19 @@
+body{
+
+    background-color: dodgerblue;
+    color: orange;
+}
+
+img{
+
+    width: 1920px;
+    height: 500px;
+}
+
+h1{
+    color: orangered;
+}
+
+a{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
